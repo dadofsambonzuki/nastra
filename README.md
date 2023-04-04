@@ -2,7 +2,7 @@
 
 A fun take on the NASA (Nostr And other Stuff Administration) logo!
 
-![nastra logo](https://github.com/dadofsambonzuki/nastra/blob/main/Assets/nastra-black-on-white.png)
+![nastra logo](https://github.com/dadofsambonzuki/nastra/blob/main/Assets/Nostr_NASA_dark_background_500px.jpeg)
 
 Contributors:
 
