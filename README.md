@@ -12,3 +12,7 @@ Contributors:
  * [Sovereign Matt](https://snort.social/p/npub1fl7pr0azlpgk469u034lsgn46dvwguz9g339p03dpetp9cs5pq5qxzeknp)
 
 Please attribute and if you are commercialising, consider sending sats to `nastra@uk.btcmap.org`, which will be split equally between the contributors.
+
+## merch
+
+ * [Six & Lemon](https://sixandlemon.com/) - Coming soon™.
