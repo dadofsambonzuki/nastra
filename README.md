@@ -1,10 +1,10 @@
 # nastra
 
-A fun take on the NASA (Nostr And other Stuff Administration)!
+A fun take on the NASA (Nostr And other Stuff Administration) logo!
 
 ![nastra logo](https://github.com/dadofsambonzuki/nastra/blob/main/Assets/nastra-black-on-white.png)
 
-Logo by:
+Contributors:
 
  * [Nathan Day](https://snort.social/p/npub1cn670f663n3ks02jnnlsvd5y88zjnefy8343ykaxs7y3nzzketrsrjwt8a)
  * [Loꓘo](https://snort.social/p/npub13a9prrjj2u730svh79rqhedpd6u5ydstdla8gv2mlnkna7tz4pgsyzf2f7)
