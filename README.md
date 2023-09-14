@@ -15,4 +15,4 @@ Please attribute and if you are commercialising, consider sending sats to `nastr
 
 ## buy here
 
- * [Six & Lemon](https://sixandlemon.com/products/nastr-t-shirt)https://sixandlemon.com/products/nastr-t-shirt)
+ * [Six & Lemon](https://sixandlemon.com/products/nastr-t-shirt)
