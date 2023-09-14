@@ -11,7 +11,7 @@ Contributors:
  * [Tarabys](https://snort.social/p/npub1tyu5g3frwch2505d7x2y9nt2h5ztt335dtxht9gn6zsr5ftgnglsvqqyut)
  * [Sovereign Matt](https://snort.social/p/npub1fl7pr0azlpgk469u034lsgn46dvwguz9g339p03dpetp9cs5pq5qxzeknp)
 
-Please attribute and if you are commercialising, consider sending sats to `nastra@uk.btcmap.org`, which will be split equally between the contributors.
+Please attribute and if you are commercialising, consider sending sats to `nastra@uk.btcmap.org` or zapping [this note](https://snort.social/e/nevent1qqswaxwg7rtqrqjqsvnjt3edm3w3p3tl0rr42jye580v32aejnfd42cpz9mhxue69uhkummnw3ezuamfdejj7eg49vq), which has zap splits enabled.
 
 ## buy here
 
