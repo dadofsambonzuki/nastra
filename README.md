@@ -13,6 +13,6 @@ Contributors:
 
 Please attribute and if you are commercialising, consider sending sats to `nastra@uk.btcmap.org`, which will be split equally between the contributors.
 
-## merch
+## buy here
 
- * [Six & Lemon](https://sixandlemon.com/) - Coming soon™.
+ * [Six & Lemon](https://sixandlemon.com/products/nastr-t-shirt)https://sixandlemon.com/products/nastr-t-shirt)
